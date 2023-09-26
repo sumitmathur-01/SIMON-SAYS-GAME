@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@400;500&display=swap');
+
+body{
+    font-family: 'Handjet', cursive;
+    text-align: center;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    height: 210px;
+    width: 210px;
+    border-radius: 50%;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+}
+
+.purple{
+    background-color: #9370DB;
+}
+
+.red{
+    background-color: #E52B50;
+}
+
+.blue {
+    background-color: #00BFFF;
+}
+
+.green{
+    background-color: 	#50C878;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
